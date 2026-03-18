@@ -19,7 +19,7 @@ The database consists of the following tables:
 <img width="943" height="721" alt="База данных ДНС" src="https://github.com/user-attachments/assets/f679a44c-dff0-490f-a12a-79d31ca58233" />
 
 ✨Technologies  
-· SQL  
+· MySQL  
 · draw.io (for schema)  
 
 Author  
